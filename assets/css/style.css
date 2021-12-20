@@ -73,6 +73,10 @@ section {
     position: relative;
 }
 
+.hero-cta {
+    color: #024e76;
+}
+
 .hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
